@@ -1,0 +1,14 @@
+.image-zone{
+    position: relative;
+}
+
+.image-zone img{
+    width: 80%;
+    height:auto;
+}
+
+var.hunter-sporn img{
+    width: 30px;
+    height: auto;
+    display: flex;
+}
